@@ -8,8 +8,8 @@ class Main {
 
     names[1] = "Andrew";
 
-    System.out.println("\n Here is my updated array:\n");
-    for(int i = 0; i < 10; i++){
+    System.out.println("\n Here is the updated reverse array:\n");
+    for(int i = 9; i < 10 && i >= 0; i--){
       System.out.println( names[i]);
     }
   }
