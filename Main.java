@@ -1,6 +1,6 @@
 class Main {
   public static void main(String[] args) {
-    String[] names = {"Jamal", "Hayden", "Anthony", "Ian", "Gabby", "Dimitrius Damarcus Bartholomew James the Third Jr", "Jaquavious", "Marquavious", "Jumar", "Reeda", "Jeffery"};
+    String[] names = {"Jamal", "Hayden", "Anthony", "Ian", "Gabby", "Dimitrius Damarcus Bartholomew James the Third Jr", "Jaquavious", "Marquavious", "Jumar", "Reeda", "Jeffary"};
 
     for(int i = 0; i < 10; i++){
       System.out.println( names[i]);
