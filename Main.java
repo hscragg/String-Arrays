@@ -9,7 +9,7 @@ class Main {
     names[1] = "Andrew";
 
     System.out.println("\n Here is the updated reverse array:\n");
-    for(int i = 9; i < 11 && i >= 0; i--){
+    for(int i = 10; i < 11 && i >= 0; i--){
       System.out.println( names[i]);
     }
   }
